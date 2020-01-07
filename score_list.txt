@@ -1,1 +1,1 @@
-[{"attempts": 6, "time": "2020-01-07 12:10:23.663787"}, {"attempts": 5, "time": "2020-01-07 12:12:27.886427"}, {"attempts": 3, "time": "2020-01-07 12:12:48.252953"}]
+[{"attempts": 7, "time": "2020-01-07 14:16:33.737232", "player_name": "Ivan", "secret_number": "22", "wrong_guess": [3, 4, 9, 15, 19, 24, 22, 22]}, {"attempts": 4, "time": "2020-01-07 14:19:34.192331", "player_name": "Mario", "secret_number": "16", "wrong_guess": [30, 22, 12, 16]}, {"attempts": 4, "time": "2020-01-07 14:23:46.636486", "player_name": "3", "secret_number": "20", "wrong_guess": [20]}]
